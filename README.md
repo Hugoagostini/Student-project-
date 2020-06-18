@@ -6,5 +6,5 @@ Ce projet correspond à un  developpement réalisé dans le cadre de l'enseignem
 - Victor Khamesi
 - Gaetan Chanet
 - Hugo Agostini
-- Toan Ngn
+- Phuc-Toan Nguyen
 
